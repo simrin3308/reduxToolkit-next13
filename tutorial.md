@@ -2,6 +2,7 @@
 2. Setup the Redux Store
    src/redux/store.ts
 
+
 ```js
 import { configureStore } from "@reduxjs/toolkit";
 
